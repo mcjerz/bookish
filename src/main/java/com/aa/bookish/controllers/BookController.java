@@ -1,2 +1,5 @@
-package com.aa.bookish.Controllers;public class BookController {
+package com.aa.bookish.controllers;
+
+public class BookController {
+
 }
